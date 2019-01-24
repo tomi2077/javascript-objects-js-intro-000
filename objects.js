@@ -1,0 +1,1 @@
+var playlist = {Chris Brown : "Freaky Friday", Eminem: "Sing fo a Moment"};
