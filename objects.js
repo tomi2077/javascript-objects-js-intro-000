@@ -1,1 +1,1 @@
-var playlist = {Chris Brown : "Freaky Friday", Eminem: "Sing fo a Moment"};
+var playlist = { Chris_Brown : "Freaky Friday", Eminem: "Sing fo a Moment"};
